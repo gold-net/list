@@ -1,3 +1,4 @@
 payload:
-  - '+.test.gogog.com'
-  - image.tmdb.org
+  - '+.tmdb.org'
+  - '+.themoviedb.org'
+  - '+.cloudflare.net'
