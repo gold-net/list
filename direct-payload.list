@@ -1,9 +1,9 @@
 payload:
-  - DOMAIN-SUFFIX,tofree.online
-  - DOMAIN-SUFFIX,freez.dpdns.org
-  - DOMAIN,v6.ident.me
-  - DOMAIN,6.ipw.cn
-  - DOMAIN,v6.yinghualuo.cn
-  - DOMAIN,speed.neu6.edu.cn
-  - DOMAIN,api.cloudflare.com
-  - DOMAIN,www.baidu.com
+  - '+.tofree.online'
+  - '+.freez.dpdns.org'
+  - v6.ident.me
+  - 6.ipw.cn
+  - v6.yinghualuo.cn
+  - speed.neu6.edu.cn
+  - api.cloudflare.com
+  - www.baidu.com
